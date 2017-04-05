@@ -1,0 +1,18 @@
+{
+  "name": "atividade-workflow",
+  "description": "atividade-workflow",
+  "main": "index.js",
+  "authors": [
+    "Kleber"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/klebinhopk/atividade-navbar",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
